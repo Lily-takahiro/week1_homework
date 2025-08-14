@@ -3,5 +3,5 @@ users_info = [["Bob", 79],
               ["Ken", 61]]
 for user in users_info:
 
-    print(f"Name:{user[0]},age:{user[1]}")
+    print(f"Name: {user[0]}, Age: {user[1]}")
 
